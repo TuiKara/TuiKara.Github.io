@@ -12,7 +12,7 @@
 
     <h2>Features</h2>
     <ul>
-        <li>Automatic counting of Rakats through beep sounds or optional voice.</li>
+        <li>Automatic counting of Rakats through beep sounds or optional voice prompts.</li>
         <li>Pray all units of a complete salah in one go</li>
         <li>Customizable settings for different beep sounds or optionally for voice prompts.</li>
     </ul>
