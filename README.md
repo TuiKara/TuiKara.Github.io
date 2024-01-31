@@ -1,4 +1,4 @@
-# support.RakatCounter.com
+# Support Rakat Counter
 
 <!DOCTYPE html>
 <html lang="en">
